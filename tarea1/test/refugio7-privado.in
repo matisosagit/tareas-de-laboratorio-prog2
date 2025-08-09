@@ -1,0 +1,63 @@
+crearRefugio
+
+# Se crean 11 perros para ingresarlos al Refugio
+
+crearFecha 05/02/2019
+crearPerro 1 Rex 4 8 Labrador activo y amigable que disfruta de largos paseos
+agregarEnRefugio
+
+crearFecha 27/11/2018
+crearPerro 2 Bella 5 7 Golden dulce y cariñosa, siempre busca mimos
+agregarEnRefugio
+
+crearFecha 12/06/2021
+crearPerro 3 Max 3 9 Beagle curioso e inquieto que ama explorar nuevos aromas
+agregarEnRefugio
+
+crearFecha 21/05/2019
+crearPerro 4 Luna 6 6 Bulldog tranquila y fiel, disfruta de la calma en casa
+agregarEnRefugio
+
+crearFecha 15/03/2017
+crearPerro 5 Charlie 7 5 Pastor Alemán valiente y protector, siempre alerta
+agregarEnRefugio
+
+crearFecha 21/05/2019
+crearPerro 6 Lucy 2 8 Poodle elegante y juguetona con mucho estilo
+agregarEnRefugio
+
+crearFecha 10/08/2022
+crearPerro 7 Cooper 4 7 Corgi enérgico y astuto, experto en travesuras
+agregarEnRefugio
+
+crearFecha 03/04/2020
+crearPerro 8 Daisy 5 8 Boxer amigable y leal, siempre dispuesta a hacer amigos
+agregarEnRefugio
+
+crearFecha 11/07/2018
+crearPerro 9 Bailey 6 9 Dachshund pequeño pero valiente, con gran corazón
+agregarEnRefugio
+
+crearFecha 09/12/2021
+crearPerro 10 Molly 3 6 Siberiana Husky resistente y amigable, amante de la nieve
+agregarEnRefugio
+
+crearFecha 25/10/2020
+crearPerro 11 Buddy 4 7 Rottweiler fuerte y protector que cuida a su familia
+agregarEnRefugio
+
+imprimirRefugio
+
+removerDeRefugio 4
+removerDeRefugio 7
+removerDeRefugio 10
+
+imprimirRefugio
+
+# Hay 1 Perros fecha
+ingresaronPerrosFechaRefugio 21/05/2019
+
+# No hay Perros fecha
+liberarRefugio
+
+Fin

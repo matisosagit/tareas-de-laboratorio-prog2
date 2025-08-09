@@ -1,0 +1,3 @@
+2e333ed136b6f2131ffc416faadf52a4fb80a9ad  src/fecha.cpp
+4182bc10412416e30d2b9d8251ce481320d4355b  src/perro.cpp
+4d2ca24ea9ea1e4928d94f6c8816a1ce4a07f008  src/refugio.cpp

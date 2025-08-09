@@ -1,0 +1,146 @@
+1>2>#  Se crean 12 perros para ingresarlos al Refugio.
+3>4>5>6>7>8>9>10>11>12>13>14>15>16>17>18>19>20>21>22>23>24>25>26>27>28>29>30>31>32>33>34>35>36>37>38>39>Perro 5
+Nombre: Charlie
+Edad: 7
+Descripcion:  GermanShepherd valiente y protector, siempre en alerta
+Fecha de ingreso: 15/3/2016
+Vitalidad: 5
+Perro 2
+Nombre: Bella
+Edad: 5
+Descripcion:  Golden cariñosa y siempre sonriente, amante de las siestas
+Fecha de ingreso: 12/11/2017
+Vitalidad: 7
+Perro 1
+Nombre: Rocky
+Edad: 4
+Descripcion:  Labrador activo y leal que disfruta de correr en el parque
+Fecha de ingreso: 1/2/2018
+Vitalidad: 8
+Perro 9
+Nombre: Bailey
+Edad: 6
+Descripcion:  Dachshund pequeño pero valiente, con un gran corazón
+Fecha de ingreso: 13/7/2018
+Vitalidad: 9
+Perro 4
+Nombre: Luna
+Edad: 6
+Descripcion:  Bulldog tranquila y protectora, disfruta de los buenos libros
+Fecha de ingreso: 30/9/2019
+Vitalidad: 6
+Perro 11
+Nombre: Buddy
+Edad: 4
+Descripcion:  Rottweiler fuerte y protector, cuida a su familia con esmero
+Fecha de ingreso: 25/10/2020
+Vitalidad: 7
+Perro 8
+Nombre: Daisy
+Edad: 5
+Descripcion:  Boxer amigable y leal, siempre lista para nuevas aventuras
+Fecha de ingreso: 7/4/2021
+Vitalidad: 8
+Perro 7
+Nombre: Cooper
+Edad: 4
+Descripcion:  Corgi enérgico y astuto, experto en travesuras
+Fecha de ingreso: 11/8/2022
+Vitalidad: 7
+Perro 10
+Nombre: Molly
+Edad: 3
+Descripcion:  SiberianHusky resistente y amistosa, amante de la nieve
+Fecha de ingreso: 9/12/2022
+Vitalidad: 6
+Perro 3
+Nombre: Max
+Edad: 3
+Descripcion:  Beagle curioso e inquieto, experto en rastrear olores
+Fecha de ingreso: 23/5/2023
+Vitalidad: 9
+Perro 6
+Nombre: Lucy
+Edad: 2
+Descripcion:  Poodle elegante y juguetona, amante de la moda canina
+Fecha de ingreso: 23/5/2023
+Vitalidad: 8
+Perro 12
+Nombre: Oscar
+Edad: 5
+Descripcion:  BorderCollie inteligente y veloz, maestro de la agilidad
+Fecha de ingreso: 23/5/2023
+Vitalidad: 8
+40>El perro con id 3 se removió del refugio.
+41>El perro con id 7 se removió del refugio.
+42>El perro con id 10 se removió del refugio.
+43>Perro 5
+Nombre: Charlie
+Edad: 7
+Descripcion:  GermanShepherd valiente y protector, siempre en alerta
+Fecha de ingreso: 15/3/2016
+Vitalidad: 5
+Perro 2
+Nombre: Bella
+Edad: 5
+Descripcion:  Golden cariñosa y siempre sonriente, amante de las siestas
+Fecha de ingreso: 12/11/2017
+Vitalidad: 7
+Perro 1
+Nombre: Rocky
+Edad: 4
+Descripcion:  Labrador activo y leal que disfruta de correr en el parque
+Fecha de ingreso: 1/2/2018
+Vitalidad: 8
+Perro 9
+Nombre: Bailey
+Edad: 6
+Descripcion:  Dachshund pequeño pero valiente, con un gran corazón
+Fecha de ingreso: 13/7/2018
+Vitalidad: 9
+Perro 4
+Nombre: Luna
+Edad: 6
+Descripcion:  Bulldog tranquila y protectora, disfruta de los buenos libros
+Fecha de ingreso: 30/9/2019
+Vitalidad: 6
+Perro 11
+Nombre: Buddy
+Edad: 4
+Descripcion:  Rottweiler fuerte y protector, cuida a su familia con esmero
+Fecha de ingreso: 25/10/2020
+Vitalidad: 7
+Perro 8
+Nombre: Daisy
+Edad: 5
+Descripcion:  Boxer amigable y leal, siempre lista para nuevas aventuras
+Fecha de ingreso: 7/4/2021
+Vitalidad: 8
+Perro 6
+Nombre: Lucy
+Edad: 2
+Descripcion:  Poodle elegante y juguetona, amante de la moda canina
+Fecha de ingreso: 23/5/2023
+Vitalidad: 8
+Perro 12
+Nombre: Oscar
+Edad: 5
+Descripcion:  BorderCollie inteligente y veloz, maestro de la agilidad
+Fecha de ingreso: 23/5/2023
+Vitalidad: 8
+44>#  Hay 2 Perros fecha.
+45>Perro 6
+Nombre: Lucy
+Edad: 2
+Descripcion:  Poodle elegante y juguetona, amante de la moda canina
+Fecha de ingreso: 23/5/2023
+Vitalidad: 8
+Perro 12
+Nombre: Oscar
+Edad: 5
+Descripcion:  BorderCollie inteligente y veloz, maestro de la agilidad
+Fecha de ingreso: 23/5/2023
+Vitalidad: 8
+46>#  No hay Perros fecha.
+47>No se encontraron perros ingresados en la fecha determinada.
+48>49>Fin.
